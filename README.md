@@ -1,2 +1,2 @@
-# Monster-Chop-
-E-commerce with Angular and SpringBoot  
+# Monster-Chop-Back
+Back-end de un e-commerce en JAVA 11, Maven y SpringBoot
